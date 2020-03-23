@@ -43,3 +43,7 @@ Anggit Herdianto
 [Facebook](http://fb.com/AnggitHerdianto) 
 
 [Twitter](http://twitter.com/AnggitHerdianto)
+
+-----
+
+update .htaccess
